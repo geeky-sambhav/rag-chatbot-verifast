@@ -1,0 +1,14 @@
+fastapi>=0.103.1
+uvicorn>=0.23.2
+python-dotenv>=1.0.0
+google-genai>=1.0.0
+pydantic>=2.4.2
+qdrant-client>=1.6.4
+jina>=3.21.0
+pypdf>=3.15.1
+numpy>=1.24.3
+python-multipart>=0.0.6
+redis>=5.0.1
+pytest>=7.4.2
+httpx>=0.25.0
+pytest-asyncio>=0.21.1 
